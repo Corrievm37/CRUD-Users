@@ -9,7 +9,7 @@
         redirect('people');
       }
       $data = [
-        'title' => 'Corrie CRUD user system',
+        'title' => 'CRUD user system',
         'description' => 'Simple CRUD operation in a custom MVC',
         'info' => 'First register then login with user details to see how easy it really is to manage people',
         'name' => 'Corrie van Mollendorf',

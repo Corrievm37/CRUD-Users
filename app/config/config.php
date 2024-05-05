@@ -10,6 +10,6 @@
   // URL Root
   define('URLROOT', '127.0. 0.1');
   // Site Name
-  define('SITENAME', 'Corrie Crud');
+  define('SITENAME', 'Crud Users');
   // App Version
   define('APPVERSION', '1.0.0');
